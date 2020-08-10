@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class no2071 {
 	
 	/**
-	 * 2071. Æò±Õ°ª ´õÇÏ±â
+	 * 2071. í‰ê· ê°’ êµ¬í•˜ê¸°
 	*/
 	
 	public static void main(String args[]) throws Exception
@@ -14,7 +14,7 @@ public class no2071 {
 		int T;
 		T=sc.nextInt();
 		/*
-		   ¿©·¯ °³ÀÇ Å×½ºÆ® ÄÉÀÌ½º°¡ ÁÖ¾îÁö¹Ç·Î, °¢°¢À» Ã³¸®ÇÕ´Ï´Ù.
+		   ì—¬ëŸ¬ ê°œì˜ í…ŒìŠ¤íŠ¸ ì¼€ì´ìŠ¤ê°€ ì£¼ì–´ì§€ë¯€ë¡œ, ê°ê°ì„ ì²˜ë¦¬í•©ë‹ˆë‹¤.
 		*/
 
 		for(int test_case = 1; test_case <= T; test_case++)
