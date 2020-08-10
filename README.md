@@ -1,5 +1,5 @@
 # 코딩테스트 준비
-+ 코딩테스트 준비하기 위해 SW Expert Academy와 Programmers의 문제를 푼다.
++ 코딩테스트 준비하기 위해 [SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemList.do "SW Expert Academy")와 [Programmers](https://programmers.co.kr/ "Programmers")의 문제를 푼다.
 + 문제를 풀고, 풀이는 [Github - CodingTest](https://github.com/MIN-04/CodingTest "Github - CodingTest")에 정리한다.
 + 언어는 **Java**를 사용한다.
 
