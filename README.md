@@ -5,7 +5,7 @@
 
 ## 분류
 ### 1. SW Expert Academy
-+ Difficulty Level 01
++ **Difficulty Level 01**
   - [2072. 홀수만 더하기](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel01/no2072.java "2072. 홀수만 더하기")
   - [2071. 평균값 구하기](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel01/no2071.java "2071. 평균값 구하기")
   - [2070. 큰 놈, 작은 놈, 같은 놈](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel01/no2070.java "2070. 큰 놈, 작은 놈, 같은 놈")
