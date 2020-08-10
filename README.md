@@ -1,6 +1,6 @@
 # 코딩테스트 준비
 + 코딩테스트 준비하기 위해 SW Expert Academy와 Programmers의 문제를 푼다.
-+ 문제를 풀고, 풀이는 [Github - CodintTest](https://github.com/MIN-04/CodingTest "Github - CodintTest")에 정리한다.
++ 문제를 풀고, 풀이는 [Github - CodingTest](https://github.com/MIN-04/CodingTest "Github - CodingTest")에 정리한다.
 + 언어는 **Java**를 사용한다.
 
 ## 분류
@@ -15,4 +15,4 @@
   
 #### 2. Programmers
 
-- 진행 중..
+  - 진행 중..
