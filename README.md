@@ -1,6 +1,6 @@
 # 코딩테스트 준비
 + 코딩테스트 준비하기 위해 [SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemList.do "SW Expert Academy")와 [Programmers](https://programmers.co.kr/ "Programmers")의 문제를 푼다.
-+ 문제를 풀고, 풀이는 [Github - CodingTest](https://github.com/MIN-04/CodingTest "Github - CodingTest")에 정리한다.
++ 문제를 풀고, 풀이는 [Github - CodingTest](https://github.com/MIN-04/CodingTest "Github - CodingTest")과 [블로그](https://kimkkoo.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84 "코딩테스트 ")에 정리한다.
 + 언어는 **Java**를 사용한다.
 
 ## 분류
