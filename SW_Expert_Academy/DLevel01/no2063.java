@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class no2063 {
 	
 	/**
-	 * 2063. Áß°£°ª Ã£±â
+	 * 2063. ì¤‘ê°„ê°’ ì°¾ê¸°
 	*/
 	
 	public static void main(String args[]) throws Exception
