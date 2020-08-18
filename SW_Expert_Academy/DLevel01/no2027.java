@@ -3,7 +3,7 @@ package difficulty.level01;
 public class no2027 {
 	
 	/**
-	 * 2027. ´ë°¢¼± Ãâ·ÂÇÏ±â
+	 * 2027. ëŒ€ê°ì„  ì¶œë ¥í•˜ê¸°
 	*/
 	
 	public static void main(String args[]) throws Exception
