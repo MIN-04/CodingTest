@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class no2050 {
 	
 	/**
-	 * 2050. ¾ËÆÄºªÀ» ¼ıÀÚ·Î º¯È¯
+	 * 2050. ì•ŒíŒŒë²³ì„ ìˆ«ìë¡œ ë³€í™˜
 	*/
 	
 	public static void main(String args[]) throws Exception
