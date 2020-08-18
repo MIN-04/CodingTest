@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class no1933 {
 	
 	/**
-	 * 1933. °£´ÜÇÑ NÀÇ ¾à¼ö
+	 * 1933. ê°„ë‹¨í•œ Nì˜ ì•½ìˆ˜
 	*/
 	
 	public static void main(String args[]) throws Exception
