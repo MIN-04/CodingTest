@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class no2019 {
 	
 	/**
-	 * 2019. ´õºí´õºí
+	 * 2019. ë”ë¸”ë”ë¸”
 	*/
 	
 	public static void main(String args[]) throws Exception
