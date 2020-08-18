@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class no2025 {
 	
 	/**
-	 * 2025. NÁÙ µ¡¼À
+	 * 2025. Nì¤„ ë§ì…ˆ
 	*/
 	
 	public static void main(String args[]) throws Exception
