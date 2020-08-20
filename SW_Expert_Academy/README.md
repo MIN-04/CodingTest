@@ -30,4 +30,5 @@
 >
 + [1204. [S/W 문제해결 기본] 1일차 - 최빈수 구하기](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1204.java "1204. [S/W 문제해결 기본] 1일차 - 최빈수 구하기")
 + [1284. 수도 요금 경쟁](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1284.java "1284. 수도 요금 경쟁")
++ [1288. 새로운 불면증 치료법](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1288.java "1288. 새로운 불면증 치료법")
 > 진행 중..
