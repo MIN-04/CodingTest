@@ -8,6 +8,7 @@ public class no1986 {
 	 * 1986. 지그재그 숫자
 	*/
 	
+	
 	public static void main(String args[]) throws Exception
 	{
 		Scanner sc = new Scanner(System.in);
