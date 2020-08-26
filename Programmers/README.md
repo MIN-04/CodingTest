@@ -6,6 +6,6 @@
 ## 분류
 #### 스택/큐
 >
-+ [Level 2.주식가격](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel01/no2072.java "Level 2.주식가격")
++ [Level 2. 주식가격](https://github.com/MIN-04/CodingTest/blob/master/Programmers/PracticeKit/Stack_Queue/No42584.java "Level 2 .주식가격")
 
 > 진행 중..
