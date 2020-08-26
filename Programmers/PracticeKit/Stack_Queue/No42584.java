@@ -1,4 +1,7 @@
 class Solution {
+    /**
+        스택/큐 - 주식가격
+    */
     public int[] solution(int[] prices) {
         int[] answer = new int[prices.length];
 
