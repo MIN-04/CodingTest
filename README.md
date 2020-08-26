@@ -31,7 +31,11 @@
   + [1204. [S/W 문제해결 기본] 1일차 - 최빈수 구하기](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1204.java "1204. [S/W 문제해결 기본] 1일차 - 최빈수 구하기")
   + [1284. 수도 요금 경쟁](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1284.java "1284. 수도 요금 경쟁")
   + [1288. 새로운 불면증 치료법](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1288.java "1288. 새로운 불면증 치료법")
+  + [1989. 초심자의 회문 검사](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1989.java "1989. 초심자의 회문 검사")
+  + [1986. 지그재그 숫자](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1986.java "1986. 지그재그 숫자")
   
 ### 2. Programmers
-
++ **고득점 Kit - 스택/큐**
+  + [Level 2. 주식가격](https://github.com/MIN-04/CodingTest/blob/master/Programmers/PracticeKit/Stack_Queue/No42584.java "Level 2 .주식가격")
+  + [Level 2. 기능개발](https://github.com/MIN-04/CodingTest/blob/master/Programmers/PracticeKit/Stack_Queue/No42586.java "Level 2. 기능개발")
 > 진행 중..
