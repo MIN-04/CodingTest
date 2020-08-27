@@ -6,6 +6,6 @@
 ## 분류
 #### 단계 - DFS와 BFS
 >
-+ [2606. 바이러스](https://github.com/MIN-04/CodingTest/blob/master/Baekjoon/Step/DFS_BFS/No2606_DFS.java "2606. 바이러스")
++ [2606. 바이러스(DFS풀이)](https://github.com/MIN-04/CodingTest/blob/master/Baekjoon/Step/DFS_BFS/No2606_DFS.java "2606. 바이러스(DFS풀이)")
 
 > 진행 중..
