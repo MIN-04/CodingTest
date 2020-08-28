@@ -13,4 +13,9 @@
   
 + [Level 2. 타겟 넘버](https://github.com/MIN-04/CodingTest/blob/master/Programmers/PracticeKit/DFS_BFS/No43165.java "Level 2 .타겟 넘버")
 + [Level 3. 네트워크](https://github.com/MIN-04/CodingTest/blob/master/Programmers/PracticeKit/DFS_BFS/No43162.java "Level 2 .네트워크")
+
+#### 완전탐색
+
++ [Level 1. 모의고사](https://github.com/MIN-04/CodingTest/blob/master/Programmers/PracticeKit/Brute-force/No42840.java "Level 3. 모의고사")
+
 > 진행 중..
