@@ -33,4 +33,11 @@
 + [1288. 새로운 불면증 치료법](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1288.java "1288. 새로운 불면증 치료법")
 + [1989. 초심자의 회문 검사](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1989.java "1989. 초심자의 회문 검사")
 + [1986. 지그재그 숫자](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1986.java "1986. 지그재그 숫자")
++ [1926. 간단한 369게임](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1926.java "1926. 간단한 369게임")
++ [1984. 중간 평균값 구하기](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1984.java "1984. 중간 평균값 구하기")
++ [1983. 조교의 성적 매기기](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1983.java "1983. 조교의 성적 매기기")
++ [1976. 시각 덧셈](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1976.java "1976. 시각 덧셈")
++ [1970. 쉬운 거스름돈](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1970.java "1970. 쉬운 거스름돈")
++ [1966. 숫자를 정렬하자](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1966.java "1966. 숫자를 정렬하자")
+
 > 진행 중..
