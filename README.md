@@ -56,6 +56,10 @@
 
   + [Level 1. 모의고사](https://github.com/MIN-04/CodingTest/blob/master/Programmers/PracticeKit/Brute-force/No42840.java "Level 3. 모의고사")
 
++ **고득점 Kit - 정렬** 
+  
+  + [Level 1. K번째수](https://github.com/MIN-04/CodingTest/blob/master/Programmers/PracticeKit/Sort/No42748.java "Level 1. K번째수")
+
 ### 3. Baekjoon
 + **단계 - DFS와 BFS** 
 
