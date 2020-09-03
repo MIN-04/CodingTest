@@ -40,6 +40,9 @@
   + [1976. 시각 덧셈](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1976.java "1976. 시각 덧셈")
   + [1970. 쉬운 거스름돈](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1970.java "1970. 쉬운 거스름돈")
   + [1966. 숫자를 정렬하자](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1966.java "1966. 숫자를 정렬하자")
+  + [2005. 파스칼의 삼각형](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no2005.java "2005. 파스칼의 삼각형")
+  + [2001. 파리 퇴치](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no2001.java "2001. 파리 퇴치")
+  + [1959. 두 개의 숫자열](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1959.java "1959. 두 개의 숫자열")
   
 ### 2. Programmers
 + **고득점 Kit - 스택/큐**  
@@ -64,5 +67,14 @@
 + **단계 - DFS와 BFS** 
 
   + [2606. 바이러스(DFS풀이)](https://github.com/MIN-04/CodingTest/blob/master/Baekjoon/Step/DFS_BFS/No2606_DFS.java "2606. 바이러스(DFS풀이)")
-    
+  
++ **단계 - 입출력과 연산**
+
+  + [10718. We love kriii](https://github.com/MIN-04/CodingTest/blob/master/Baekjoon/Step/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%97%B0%EC%82%B0/No10718.java "10718. We love kriii")
+  + [2557. Hello World](https://github.com/MIN-04/CodingTest/blob/master/Baekjoon/Step/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%97%B0%EC%82%B0/No2557.java "2557. Hello World")
+
++ **Level - Bronze 01**
+
+  + [1110. 더하기 사이클](https://github.com/MIN-04/CodingTest/blob/master/Baekjoon/Level/Bronze01/No1110.java "1110. 더하기 사이클")
+
 > 진행 중..
