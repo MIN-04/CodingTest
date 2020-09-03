@@ -39,5 +39,8 @@
 + [1976. 시각 덧셈](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1976.java "1976. 시각 덧셈")
 + [1970. 쉬운 거스름돈](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1970.java "1970. 쉬운 거스름돈")
 + [1966. 숫자를 정렬하자](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1966.java "1966. 숫자를 정렬하자")
++ [2005. 파스칼의 삼각형](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no2005.java "2005. 파스칼의 삼각형")
++ [2001. 파리 퇴치](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no2001.java "2001. 파리 퇴치")
++ [1959. 두 개의 숫자열](https://github.com/MIN-04/CodingTest/blob/master/SW_Expert_Academy/DLevel02/no1959.java "1959. 두 개의 숫자열")
 
 > 진행 중..
